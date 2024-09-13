@@ -1,4 +1,4 @@
-![logo](https://github.com/Raviiii-Ai/Raviiii-Ai/blob/main/Github-Banner.png)
+![logo](https://github.com/Raviiii-Ai/Raviiii-Ai/blob/main/GithubBanner-1.png)
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
