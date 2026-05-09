@@ -74,7 +74,7 @@
 
 | 🏅 GFG Rank | 📈 CGPA | 📄 Research | 🏛️ Internships |
 |:-----------:|:-------:|:-----------:|:--------------:|
-| **Institute #1** | **8.44** | **AMLO-UAF Paper** | **AAI · DRM Jhansi** |
+| **Institute #1** | **8.44** | **Railway Safety Paper** | **AAI · DRM Jhansi** |
 
 <br/>
 
