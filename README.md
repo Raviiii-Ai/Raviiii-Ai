@@ -35,19 +35,9 @@
 ---
 
 <!-- ═══════════════════════════════════════ -->
-<!--         GITHUB STATS — LIVE            -->
+<!--         STREAK STATS — LIVE            -->
 <!-- ═══════════════════════════════════════ -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=ravixpanchal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=bc8cff&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="170"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ravixpanchal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=bc8cff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff" height="170"/>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════ -->
-<!--        TOP LANGUAGES — LIVE            -->
-<!-- ═══════════════════════════════════════ -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravixpanchal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10&count_private=true" height="140"/>
+<img src="https://streak-stats.demolab.com?user=ravixpanchal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=bc8cff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff" width="495"/>
 
 <br/><br/>
 
@@ -68,15 +58,14 @@
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/ravixpanchal?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=3fb950&ring_color=bc8cff&site=com&border_color=21262d" width="495"/>
+<img src="https://leetcard.jacoblin.cool/ravixpanchal?theme=dark&font=Fira%20Code&border=0&radius=8&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=3fb950&site=com&border_color=21262d" width="495"/>
 
 <br/>
 
 ---
 
 <!-- ═══════════════════════════════════════ -->
-<!--         STATIC ACHIEVEMENT TABLE       -->
-<!-- (GFG rank / CGPA have no public API)   -->
+<!--         ACHIEVEMENT TABLE              -->
 <!-- ═══════════════════════════════════════ -->
 
 **🏆 Achievements**
