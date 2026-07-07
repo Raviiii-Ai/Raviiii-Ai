@@ -35,13 +35,6 @@
 ---
 
 <!-- ═══════════════════════════════════════ -->
-<!--         STREAK STATS — LIVE            -->
-<!-- ═══════════════════════════════════════ -->
-<img src="https://streak-stats.demolab.com?user=ravixpanchal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=bc8cff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff" width="495"/>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════ -->
 <!--       ACTIVITY GRAPH — LIVE            -->
 <!-- ═══════════════════════════════════════ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravixpanchal&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&radius=8&custom_title=Ravi's%20Contribution%20Graph" width="95%"/>
